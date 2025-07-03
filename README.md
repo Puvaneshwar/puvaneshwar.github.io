@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Puvaneshwar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Puvaneshwar</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **React.js and GitHub**
+- I’m currently learning **React.js and GitHub**
 
-- 👨‍💻 All of my projects are available at [https://puvaneshwar.github.io/](https://puvaneshwar.github.io/)
+- All of my projects are available at [https://puvaneshwar.github.io/](https://puvaneshwar.github.io/)
 
-- 📫 How to reach me **puvaneshwar@student.tce.edu**
+- How to reach me **puvaneshwar@student.tce.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
